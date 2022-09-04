@@ -10,4 +10,4 @@
 
 <h1 align="center">Stat:</h1>
 
-<align="center" img alt="AcTh2" src="https://github-readme-stats.vercel.app/api?username=AcTh2&show_icons=true&theme=dark"/>
+<img alt="AcTh2" src="https://github-readme-stats.vercel.app/api?username=AcTh2&show_icons=true&theme=dark"/>
