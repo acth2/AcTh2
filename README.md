@@ -3,9 +3,8 @@
 Langages de programmation les plus utilisé :
 https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg
 
-<img src="https://profile-counter.glitch.me/Predator-of-the-code/count.svg" alt="vistor count" height="30" align="right"/>
 <br>
-<h1 align="center">Predator of the code - Apsu</h1>
+<h1 align="center">AcTh2</h1>
 <h3 align="center">Developer algo - web</h3>
 
 <h3 align="left">Connect with me:</h3>
