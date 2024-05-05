@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, Je suis AcTh2</h1>
 <h3 align="center">développeur indé qui fait ce qu'il aime..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acth2&label=Profile%20views&color=0e75b6&style=flat" alt="acth2" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acth2" alt="acth2" /></a> </p>
 
 - 🔭 Je travaille sur [CydraProject](https://github.com/acth2/CydraProject)
