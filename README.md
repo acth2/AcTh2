@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acth2" alt="acth2" /></a> </p>
 
 - 🔭 Je travaille sur [CydraProject](https://github.com/acth2/CydraProject)
+- CydraProject est une distribution linux gratuite open-source en constance évolution !
 
 - 🌱 J'apprend ces langages de programmation **C, C++**
 
