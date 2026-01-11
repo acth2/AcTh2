@@ -9,7 +9,7 @@
 
 - 📫 Comment me parler **Sur discord: acth2**
 
-- 👨‍💻 Tout mes projets son disponnibles sur **https://github.com/acth2**
+- 👨‍💻 Tout mes projets son disponibles sur **https://github.com/acth2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
