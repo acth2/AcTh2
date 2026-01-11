@@ -2,14 +2,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acth2&theme=onedark" alt="acth2" /></a> </p>
 
-- 🔭 Je travaille sur [CydraProject](https://github.com/acth2/CydraProject)
-  CydraProject est une distribution linux gratuite open-source en constance évolution !
+- 🔭 Je code une distribution linux [CydraProject](https://github.com/acth2/CydraProject)
+  CydraProject est une distribution linux gratuite open-source en constante évolution !
 
 - 🌱 J'apprend ces langages de programmation **C, C++**
 
-- 📫 Comment me parler **Sur discord: acth2**
-
-- 👨‍💻 Tout mes projets son disponibles sur **https://github.com/acth2**
+- 📫 Comment me parler: **Sur discord: acth2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
