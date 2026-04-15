@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 Top Languages
+### Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acth2&theme=transparent&layout=compact&hide_border=true" height="150"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### 📦 Featured Projects
+### My projects
 
 <p align="center">
   <a href="https://github.com/acth2/cydramanager">
